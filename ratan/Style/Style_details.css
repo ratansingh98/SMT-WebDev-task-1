@@ -1,0 +1,26 @@
+.bdy{
+    background-image: url("../Background/bg2.jpg");
+    height: 100%; 
+    width: 80%
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: aliceblue;
+}
+h2{
+    font-family: sans-serif;
+    
+}
+.footer {
+    position: fixed;
+    height: 30px;
+    background-color: #d6d6d6;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+.righ{
+        margin-right: 1.5em;
+        font-weight: bold;
+}

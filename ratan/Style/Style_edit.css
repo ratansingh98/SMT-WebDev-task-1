@@ -1,0 +1,69 @@
+.bdy{
+    background-image: url("../Background/bg3.jpg");
+    background-size: 100% 100%;
+
+}
+.form-style-5{
+    max-width: 500px ;
+    padding: 10px 70px ;
+    background: #ffac57 ;
+    margin: 20px;
+    padding: 20px ;
+    background: #ffac57;
+    margin-left: 1.5em auto;
+    border-radius: 8px ;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+h2{
+    font-family: sans-serif;
+    font-family: cursive;
+    font-weight: bold;
+    color: #fb6c3c;
+
+}
+label{
+ margin-top: 1.5em;
+font-weight:bold;
+font-family: inherit;
+margin-left: 1.5em;
+}
+.gap{
+    margin-left: 1.5em;
+}
+hr{
+    color: black;
+}
+label{
+    font-size: 18px;
+}
+img{
+    margin-top: 1.5em;
+    font-weight:bold;
+    font-family: inherit;
+    margin-left: 1.5em;
+}
+.browse{
+margin-left: 7.5em;
+}
+.bg{
+
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+.submit{
+        font-size: 25px;
+}
+.footer {
+    position: inherit;
+    height: 30px;
+    background-color: #ffac57;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+.righ{
+        margin-right: 1.5em;
+        font-weight: bold;
+}
